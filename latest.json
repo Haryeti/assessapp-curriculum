@@ -1,0 +1,9 @@
+{
+  "packs": {
+    "ontario-science": {
+      "version": "2026.10.15",
+      "file": "ontario-science.yaml",
+      "sha256": "a6191297d6b65c5a3208333d11eb2d5f42f777f1382f7b1d3606a33c33dbf233"
+    }
+  }
+}
